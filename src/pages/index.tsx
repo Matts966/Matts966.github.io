@@ -11,7 +11,7 @@ const IndexPage = () => (
       <Container>
         <h1>Matts966.github.io</h1>
         <p>Welcome to my Gatsby site.</p>
-        <Link to="https://matts966.github.io/slides/">my slides</Link>
+        <a href="https://matts966.github.io/slides/">my·slides</a>
       </Container>
     </Page>
   </IndexLayout>
