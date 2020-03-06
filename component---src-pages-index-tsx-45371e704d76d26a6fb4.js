@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{QeBL:function(t,e,l){"use strict";l.r(e);l("q1tI");var n=l("NqE+"),s=l("TBFr"),u=l("+ego"),c=l("qKvR");e.default=function(){return Object(c.d)(u.a,null,Object(c.d)(n.a,null,Object(c.d)(s.a,null,Object(c.d)("h1",null,"Matts966.github.io"),Object(c.d)("p",null,"Welcome to my Gatsby site."),Object(c.d)("a",{href:"https://matts966.github.io/slides/"},"my slides"))))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-45371e704d76d26a6fb4.js.map
