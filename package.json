@@ -8,7 +8,7 @@
   "scripts": {
     "build": "gatsby build",
     "clean": "rimraf public",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy": "gatsby build --prefix-paths && git add . && git commit -m'deploy' && git push &&  gh-pages -d public && hub pull-request -m deploy -a Matts966 -b master -h gh-pages",
     "dev": "gatsby develop",
     "format": "prettier --write \"src/**/*.{ts,tsx,md}\"",
     "lint": "eslint 'src/**/*.{ts,tsx}'",
