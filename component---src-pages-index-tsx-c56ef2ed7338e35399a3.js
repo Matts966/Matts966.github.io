@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{QeBL:function(t,e,l){"use strict";l.r(e);l("q1tI");var n=l("Wbzz"),c=l("NqE+"),s=l("TBFr"),u=l("+ego"),b=l("qKvR");e.default=function(){return Object(b.d)(u.a,null,Object(b.d)(c.a,null,Object(b.d)(s.a,null,Object(b.d)("h1",null,"Matts966.github.io"),Object(b.d)("p",null,"Welcome to my Gatsby site."),Object(b.d)(n.a,{to:"/slides/"},"my slides"))))}}}]);
-//# sourceMappingURL=component---src-pages-index-tsx-c56ef2ed7338e35399a3.js.map
